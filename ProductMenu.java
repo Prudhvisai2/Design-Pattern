@@ -1,7 +1,8 @@
+import java.io.IOException;
+
 public class ProductMenu {
 
-	public void showMenu() {
-
+	public void showMenu() throws IOException {
 	}
 
 	public void showAddButton() {

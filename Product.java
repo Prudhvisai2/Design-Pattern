@@ -1,7 +1,7 @@
 public class Product {
 
-    private String name;
-    private int type;
+    public String name;
+    public int type;
 
     public Product(String name, String type) {
         this.name = name;
